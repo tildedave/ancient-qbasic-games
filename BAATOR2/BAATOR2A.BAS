@@ -222,8 +222,6 @@ IF A$ = "credits" THEN
 PRINT "Baator:  You bet your life": PRINT
 PRINT "     Programmer:  Dave King"
 PRINT "     Designer:  Dave King"
-PRINT "     Dedicated to:  Chuck Kappenman, upon which the basic premise of this game"
-PRINT "      is based."
 PRINT "     Note:  Most places, characters, and monsters contained in this game are"
 PRINT "      registered trademarks of TSR, inc and are derived from the adventure,"
 PRINT "      'Fires of Dis.'"
@@ -869,42 +867,42 @@ PRINT "You are in the prison.  Prisoners of all sorts surround you.  Tanar'ri, e
 PRINT "mortals, etc, etc.  There are no apparent exits from this room.  The wall are"
 PRINT "smooth, blank, and white.  However, each and every one is stained in blood."
 IF Break <> 0 THEN PRINT "You are bound tight by steel chains."
-PRINT "There is a set of orbs here; a red one labelled, '˜'; a blue one labelled, '‘';"
-PRINT "and a green one labelled, 'Ž'  There is a large sigil in the center of this room"
-PRINT "that is a large 'ë'."
+PRINT "There is a set of orbs here; a red one labelled, 'ï¿½'; a blue one labelled, 'ï¿½';"
+PRINT "and a green one labelled, 'ï¿½'  There is a large sigil in the center of this room"
+PRINT "that is a large 'ï¿½'."
 GOTO EndDisSub
 Entrance: PRINT "Entrance": PRINT
 PRINT "You are in the entrance to the Burning Tower.  There are three orbs here; a red"
-PRINT "one labelled, 'Ž', a blue orb labelled, 'ë', and a green one labelled, 'O'."
+PRINT "one labelled, 'ï¿½', a blue orb labelled, 'ï¿½', and a green one labelled, 'O'."
 PRINT "There do not seem to be any exits from this room.  There is a large sigil in"
-PRINT "the center of the room here, '˜'."
+PRINT "the center of the room here, 'ï¿½'."
 GOTO EndDisSub
 Library: PRINT "Library": PRINT
 PRINT "This room is entirely filled with books of all sorts and documents of all types."
 IF Book = 0 THEN PRINT "One book in particular draws your attention to itself.  'On the Baatezu,' it": PRINT "is entitled.  It's a thin black book."
-PRINT "There are three orbs here; a red orb labelled, '¯', a blue orb labelled '˜', and"
-PRINT "a green orb labelled, 'ë'.  There is a large sigil in the center of the room"
-PRINT "here, 'Ž'."
+PRINT "There are three orbs here; a red orb labelled, 'ï¿½', a blue orb labelled 'ï¿½', and"
+PRINT "a green orb labelled, 'ï¿½'.  There is a large sigil in the center of the room"
+PRINT "here, 'ï¿½'."
 GOTO EndDisSub
 Spiral: PRINT "Spiral": PRINT
 PRINT "You are at a spiral staircase.  You may go up and down from here.  There are"
-PRINT "also three orbs here; a red orb labelled, 'ë', a blue orb labelled, '¯', and a"
-PRINT "green orb labelled, 'Ÿ'.  There is a large sigil in the center of the room here,"
-PRINT "'‘'."
+PRINT "also three orbs here; a red orb labelled, 'ï¿½', a blue orb labelled, 'ï¿½', and a"
+PRINT "green orb labelled, 'ï¿½'.  There is a large sigil in the center of the room here,"
+PRINT "'ï¿½'."
 GOTO EndDisSub
 Overlook: PRINT "Overlook": PRINT
 PRINT "From here, you can see the entirety of the infinite City of Dis.  How you can"
 PRINT "see the entire thing while it's infinite is just another one of the infinte"
-PRINT "mysteries of the planes.  There are three orbs here; a red orb labelled, '‘',"
-PRINT "a blue orb labelled, 'Ž', and a green orb labelled, 'Ÿ'.  There is a large sigil"
-PRINT "in the center of the room here, '¯'."
+PRINT "mysteries of the planes.  There are three orbs here; a red orb labelled, 'ï¿½',"
+PRINT "a blue orb labelled, 'ï¿½', and a green orb labelled, 'ï¿½'.  There is a large sigil"
+PRINT "in the center of the room here, 'ï¿½'."
 GOTO EndDisSub
 Gate2: PRINT "Gate": PRINT
 PRINT "This room's distinguishing feature is a large portal in the center of the room."
 PRINT "It bathes the entire room in reddish light.  There are also three orbs here; a"
-PRINT "red orb labelled, '‘', a blue orb labelled, 'ë', and a green orb labelled, '¯'."
+PRINT "red orb labelled, 'ï¿½', a blue orb labelled, 'ï¿½', and a green orb labelled, 'ï¿½'."
 PRINT "The portal itself is to the north.  There is a large sigil in the center of the"
-PRINT "room here, 'Ÿ'."
+PRINT "room here, 'ï¿½'."
 GOTO EndDisSub
 EndDisSub:
 END SUB
@@ -1776,7 +1774,7 @@ IF Page = 1 THEN
 PRINT "                        ON THE BAATEZU": PRINT
 PRINT "   Excerpts from the Planescape Monstrous Compendium, Volume I": PRINT
 PRINT "          Copyright 1994 TSR, Inc.  All Rights Reserved.": PRINT
-PRINT "     Additional Penmanship by Dking, Mage of the God Hereg–l"
+PRINT "     Additional Penmanship by Dking, Mage of the God Heregï¿½l"
 END IF
 IF Page = 2 THEN
 PRINT "Lesser Baatezu - Abishai": PRINT
@@ -1999,7 +1997,7 @@ ABAsk3: PRINT : INPUT ">", A: PRINT
 IF A = 1 THEN PRINT "'Wonderful,' says the abishai.  'Well, I guess a little fight would be": PRINT "interesting.  Mortals.... <sigh>'": Abishai1 = 1: ReturnTo940 = 1: GOTO EndTalking
 IF A = 2 THEN PRINT "'I'm Nacyl Angelbane.  I guard the Pit of Maggots.  I also provide": PRINT "rides.... for a price.'": ReturnTo940 = 1: GOTO EndTalking
 IF A = 3 THEN PRINT "'No.  And, I might add, you are under arrest for asking too much.  Prepare for": PRINT "sentance to be administered.'": Abishai1 = 1: ReturnTo940 = 1: GOTO EndTalking
-IF A = 4 THEN PRINT "'Yes, and I'm Nacyl Angelbane.  I killed Hereg–l.  A small challenge.  Then I": PRINT "killed Charles Conigra, and Vita, and then Sinthus, and then Dking....'": ReturnTo940 = 1: GOTO EndTalking
+IF A = 4 THEN PRINT "'Yes, and I'm Nacyl Angelbane.  I killed Heregï¿½l.  A small challenge.  Then I": PRINT "killed Charles Conigra, and Vita, and then Sinthus, and then Dking....'": ReturnTo940 = 1: GOTO EndTalking
 IF A = 5 OR A = 6 THEN
 PRINT "'Would I!' the abishai excitedly exclaims."
 IF A = 5 AND Ruby <> 1 THEN PRINT "'So would I,' you say.": ReturnTo940 = 1: GOTO EndTalking
