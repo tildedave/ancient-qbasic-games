@@ -1,0 +1,406 @@
+BioLab Computer
+BioArchives
+
+Index
+Start
+Medical Records of all Patients to the date 45.352.3:
+
+CL3             Colony Leader           MI1/PC45     Missing Individual
+SO341351        Security Officer        MI2/PC86     Missing Individual
+SO351326        Security Officer        MI3/TE42     Missing Individual
+SO412621        Security Officer        MI4/TE39     Missing Individual
+SO426274        Security Officer        MI5/MO56365  Missing Individual
+TE32            Techinal Engineer       MI6/MO42425  Missing Individual
+TE37            Techinal Engineer
+TE43            Techinal Engineer
+MO12355         Medical Officer  
+MO23043         Medical Officer  
+MO34526         Medical Officer
+MO35432         Medical Officer
+MO42313         Medical Officer
+MO54031         Medical Officer
+MO54382         Medical Officer
+STOP
+
+MI6/MO42425
+MO42425
+MI6
+Start
+
+Subject:                MI6/MO42425
+Full Name:              Missing Individual 6, Formerly Medical Officer #42425
+Medical History:        None
+Vaccines:               Vaccinated against most major diseases
+STOP
+
+MI5/MO56365
+MO56365
+MI4
+Start
+
+Subject:                MI5/MO56365
+Full Name:              Missing Individual 5, Formerly Medical Officer #56365
+Medical History:        None
+Vaccines:               Vaccinated against most major diseases
+STOP
+
+MI4/TE39
+TE39
+MI4
+Start
+
+Subject:                MI4/TE39
+Full Name:              Missing Individual 4, Formerly Technical Engineer #39
+Medical History:        Afflicted with a form of debilitating CI
+                        Genetic defect causing tongue rolling
+Vaccines:               None
+STOP
+
+MI3/TE42
+MI3
+TE42
+Start
+
+Subject:                MI3/TE42
+Full Name:              Missing Individual 3, Formerly Technical Engineer #42
+Medical History:        Afflicted with a form of debilitating CI
+                        Genetic defect causing low disease tolerance level
+Vaccines:               None
+STOP
+
+MI2/PC86
+MI2
+PC86
+Start
+
+Subject:                MI2/PC86
+Full Name:              Missing Individual 2, Formerly Private Citizen #86
+Medical History:        Afflicted with a form of debilitating CI
+                        Genetic defect causing left-handedness
+Vaccines:               None
+STOP
+
+MI1/PC45
+MI1
+PC45
+Start
+
+Subject:                MI1/PC45
+Full Name:              Missing Individual 1, Formerly Private Citizen #45
+Medical History:        Afflicted with a form of debilitating CI
+                        Genetic defect causing colorblindness
+Vaccines:               None
+STOP
+
+SO341351
+Start
+
+Subject:                SO341351
+Full Name:              Security Officer #341351
+Medical History:        Afflicted with a form of debilitating CI
+Vaccines:               Vaccinated against most major diseases
+STOP
+
+SO351326
+Start
+
+Subject:                SO351326
+Full Name:              Security Officer #351326
+Medical History:        Afflicted with a form of debilitating CI
+Vaccines:               Vaccinated against most major diseases
+STOP
+
+SO426274
+Start
+
+Subject:                SO426274
+Full Name:              Security Officer #426274
+Medical History:        Afflicted with a form of debilitating CI
+Vaccines:               Vaccinated against most major diseases
+STOP
+
+SO412621
+Start
+
+Subject:                SO412621
+Full Name:              Securiy Officer #412621
+Medical History:        Afflicted with a form of debilitating CI
+Vaccines:               Vaccinated against most major diseases
+STOP
+
+CL3
+Start
+
+Subject:                CL3
+Full Name:              Colony Leader #3
+Medical History:        Afflicted with a form of debilitating CI
+Vaccines:               Vaccinated against most major diseases
+STOP
+
+TE32
+Start
+
+Subject:                TE32
+Full Name:              Technical Engineer #32
+Medical History:        Afflicted with a form of terminal CI
+                        Left Brain Palsey
+Vaccines:               None
+STOP
+
+TE37
+Start
+
+Subject:                TE43
+Full Name:              Technical Engineer #43
+Medical History:        Afflicted with a form of terminal CI
+Vaccines:               None
+STOP
+
+TE43
+Start
+
+Subject:                TE43
+Full Name:              Technical Engineer #43
+Medical History:        Afflicted with a form of terminal CI
+Vaccines:               None
+STOP
+
+MO12355
+Start
+
+Subject:                MO12355
+Full Name:              Medical Officer #12355
+Medical History:        Afflicted with a form of terminal CI
+Vaccines:               None
+STOP
+
+MO23043
+Start
+
+Subject:                MO23043
+Full Name:              Medical Officer #23043
+Medical History:        Afflicted with a form of terminal CI
+Vaccines:               None
+STOP
+
+MO34526
+Start
+
+Subject:                MO34526
+Full Name:              Medical Officer #34526
+Medical History:        Afflicted with a form of terminal CI
+Vaccines:               None
+STOP
+
+MO35432
+Start
+
+Subject:                MO35432
+Full Name:              Medical Officer #35432
+Medical History:        Afflicted with a form of terminal CI
+Vaccines:               None
+STOP
+
+MO54031
+Start
+
+Subject:                MO54031
+Full Name:              Medical Officer #54031
+Medical History:        Afflicted with a form of terminal CI
+Vaccines:               None
+STOP
+
+MO42313
+Start
+
+Subject:                MO42313
+Full Name:              Medical Officer #42313
+Medical History:        Afflicted with a form of terminal CI
+Vaccines:               None
+STOP
+
+MO54382
+Start
+
+Subject:                MO54382
+Full Name:              Medical Officer #54382
+Medical History:        Afflicted with a form of terminal CI
+Vaccines:               None
+STOP
+BioArchivesEnd
+Schematics
+
+|-----------------------|-----------------|
+|  ---------------      |       |    |    |
+|  |  Library    |      | Security   |    |
+|  |   Complex   |      |       |    |    |
+|  |             |      |                 |
+|  |_Door________|      |__SecL __________|
+|_________    ___________________     ___<--- Power Conduit
+|        |Door|  | Door |       |Door|    |
+|        |    |  |      |       |    |    |
+|        |    |  |Public|_Laser_D____|    |
+|    -----Door___| Area |      |     |    |
+|        |       |  ||  |      S     S    |
+|________D_______|  \/  |-----------------|
+
+SecL/S:  Locked by Security Code
+
+Security Code 26C:  Col3CIQuarantine
+Security Code 45W:  Operation WipeCI
+
+STOP
+BioLab Computer End
+Security Computer
+Colony 3
+Start
+
+Colony Number:                                                  3
+Total Number of Public Inhabitants:                             435
+Total Number of Security Personell:                             15
+Current Number of Public Inhabitants in Colony #3:              Unknown
+Current Number of Security Personell in Colony #3:              Unknown
+
+STOP
+Security Computer End
+
+Console Archives
+Index
+Constitution of the Intergalactic Union, As of Year 43143
+Colony #1               Colony #2               Colony #3
+STOP
+Constitution
+Constitution of the Intergalatic Union
+Constitution of the Intergalatic Union, As of Year 43143
+Start
+Article 1
+
+A)  We, the planets of assorted galaxies, in order to establish a central
+government that would greatly increase our economical and military strength,
+declare ourselves to be the Intergalactic Union.
+B)  All power of Intergalactic Union, military or otherwise, shall be vested 
+in the Lord Protector of the Intergalactic Union.  He shall be selected by
+representatives from all planets in the Union.
+
+Article 2
+
+A)  The Lord Protector's office shall be located on a planet hereafter known
+as "The Homeland," which is at the center of all current members of the
+Intergalactic Union.
+B)  The Lord Protector shall be advised by representatives from all planets
+in the Intergalactic Union.
+
+PAGE
+
+Article 3
+
+A)  Citizens of the Intergalactic Empire must give up all personal and family
+names and be processed by the government of the Homeland into the complete 
+Archive of all citizens.
+B)  Names shall be denoted by profession and number.
+C)  All Security Officer's names shall begin with SO.
+D)  All Medical Officer's names shall begin with MO.
+E)  All Techinical Engineer's names shall begin with TE.
+F)  All Colony Leader's names shall begin with CL.
+G)  All Electrical Engineer's names shall begin with EE.
+H)  All Colony Staff's names shall begin with CS.
+I)  All Private Citizens or Children shall be named beginning with PC.
+J)  Those wishing to enter the Intergalactic Union must register at any local
+Government office, where their name shall be processed into the complete
+Archive of all citizens.
+K)  Those giving themselves personal, family, or other sorts of names shall
+be sentenced to death.
+
+PAGE
+
+Article 4
+
+A)  No citizens, excluding those whose name begins with SO, are allowed to
+carry any sort of chemical weapon, contained fission explosive, plasma 
+grenade, laser weapon, or any like weapons.
+B)  Any citizen caught with any such weapons are to be put to death.
+
+Article 5
+
+A)  The Government of the Intergalactic Union shall control all electronic
+publications, trademarks, and assets.
+B)  Any citizen caught publishing any electronic publication, trademark, or
+controlling private assets shall be put to death.
+
+PAGE
+
+Article 6
+
+A)  In the case of a bio-toxin entering a population of any planet, the Lord
+Protector is authorized to order a quarantine of the afflicted.  If 
+neccesary, the Lord Protector may order the quaratined population to be put
+to death.
+
+Article 7
+
+A)  The Government shall control all business and education being done within
+its borders.
+B)  Anyone violating Clause A shall be put to death.
+
+Article 8
+
+A)  The Goverment shall have complete control over all trade between it and
+other nations.
+B)  Anyone violating Clause A by smuggling or the like shall be put to death.
+
+PAGE
+
+Article 9
+
+A)  Criminal trials shall hereforth be outlawed.  All decisions will be made
+by the leader of the local military forces, who shall be granted the power
+to execute any offenders, if need be.
+
+Article 10
+
+A)  Anyone violating any provision of this document or of any other law 
+decreed by the Government of the Intergalactic Union shall be put to death.
+B)  Anyone violating Clause A of Article 10 shall be but to death.
+STOP
+Console Schematics
+Schematics
+Start
+----------------------------Restricted-----------------------------|
+                           |   Area   |                            |
+                           |          |                            |
+__________Console__________|          |_____________Console________|
+Exit                                                           Exit
+Exit                                                           Exit
+|---|-----D----|-----------|          |-----------|-----D----------|
+|   |          |           |          |           |           |    |
+|   |          |           |          |           |           |    |
+|   |          |           D          D           |           |    |
+|   |          |           |          |           |           |    |
+|   |----------|-----------|          |-----------|-----------|    |
+|   |          |           |          |           |           |    |
+|   |          |           D          D           |           |    |
+|   |          |           |          |           |           |    |
+|___|_____D____|___________|          |___________|_____D_____|____|
+                                                                   |
+__________Console_____________Reactor_______________Console________|
+                               Door
+STOP
+Console Archives End
+
+Identity List
+CL3
+SO341351
+SO351326
+SO412621
+SO426274
+TE32
+TE37
+TE43
+MO12355
+MO23043
+MO34526
+MO35432
+MO42313
+MO54031
+MO54382
+STOP

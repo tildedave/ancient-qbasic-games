@@ -1,0 +1,182 @@
+keycard
+Start
+Designed into the circuitry of the OBC6R, the master key card
+has the ability to scan a particular keycard slot and change the card's magnetic
+field to match that of the slot.  The master key card will only work on keycard
+slots.
+STOP
+
+laser
+Start
+Designed onto the right arm extension of the OBC6R, the hand
+laser provides a channelled source of 5600 kJ of heat energy into the target.
+This laser is not focused enough to kill humanoids, but it can kill living
+tissue.  It also can provide a useful tool in the cases of locked doors.
+STOP
+
+door closed untranslated
+Start
+The door is closed, and made of a titanium alloy.  There is
+some writing on it, but it is in an alien language.
+STOP
+
+door closed translated
+Start
+The door is closed, and made of a titanium alloy.  There is
+some writing on it, reading, "Restricted Access."
+STOP
+
+door open
+Start
+The door is open.  It is made of a titanium alloy.
+STOP
+
+device closed
+Start
+The device has on it an electronic display, and a keypad.
+The most prominent thing about it is large red button on it.  The device
+is made of an alien metal.  There is a small release near the back of the
+device, apparently to open the device for maintenance.  However, the release
+has a slot in it.  Sensors indicate the slot is not designed to fit an
+electric keycard in.
+STOP
+
+device opened
+Start
+The device is opened.  Inside of the device, there is a large
+amount of circuitry and wiring.  There is a lever on the left inside side of
+the device.
+STOP
+
+lever
+Start
+The lever is normal in all respects.
+STOP
+
+library door closed translated
+Start
+The door is closed, and made of a titanium alloy.  There is
+some writing on it, reading, "Central Library Core."
+STOP
+
+security door closed translated
+Start
+The door is closed, and made of a titanium alloy.  There is
+some writing on it, reading, "Complex Security."
+STOP
+
+biolab1 door closed translated
+Start
+The door is closed, and made of a titanium alloy.  There is
+some writing on it, reading, "Biolab 1."  Over the writing is a symbol.  On
+the symbol is some writing that generally translates to, "Biohazard Level 2."
+STOP
+       
+biolab2 door closed translated
+Start
+The door is closed, and made of a titanium alloy.  There is
+some writing on it, reading, "Biolab 2."  Over the writing is a symbol.  On
+the symbol is some writing that generally translates to, "Biohazard Level 7."
+STOP
+
+power conduit off
+Start
+The large device appears to be an electrical device of some
+sort.  However, no electricity is currently running through the device.  On 
+the device is a red button and a keypad.  There is an electrical socket in
+the device.
+STOP
+
+power conduit on
+Start
+The large device appears to be an electrical device of some
+sort.  About 10,000 volts of electricity are currently running through the
+device.  On the device is a red button and a keypad.  There is an eletrical 
+socket in the device.
+STOP
+
+plaque untranslated
+Start
+The plaque seems to be composed of some sort of alien alloy.
+Sensors are unable to detect any known elements within chemical structure
+of plaque.  There are a few indecipherable etchings in the plaque's surface.
+STOP
+
+plaque translated
+Start
+The plaque seems to be composed of some sort of alien alloy.
+Sensors are unable to detect any known elements within chemical structure
+of plaque.  There is some writing on the plaque, translating to, "Security
+System 5.4 in place.  Further travel to the south from here is impossible,
+due to high-voltage lasers always remaining powered."
+STOP
+
+explosive unset
+Start
+The explosive contains four chambers within it.  Inside the
+chambers are various radioactive elements, including traces of uranium and
+plutonium.  Sensors report it to be a contained fission explosive.  Instead
+of releasing a huge blast, as an atomic bomb would, it atomically vaporizes
+any objects in contact with it when set off.  There is a timer on it, 
+currently unlit.
+STOP
+
+keypad untranslated
+Start
+The keypad appears to be made up of ten distinct symbols on 
+ten different keys, followed by four more keys that contain two symbols on 
+each key.  At the bottom of the keypad is a red button.  To one side of the
+keypad is an electrical socket.
+STOP
+
+keypad translated
+Start
+The keypad has the numbers 0-9 on it.  Below the numbers are
+four keys which the following notations on them, "MO","SO","PC", and "TE".
+At the bottom of the keypad is a red button.  To one side of the keypad is
+an electrical socket.
+STOP
+
+monitor controls
+Start
+The controls consist of a few buttons.  There are a green
+button, a square button, a red button, and a trianglular button.
+STOP
+
+syringe red
+Start
+The syringe is filled with a red fluid.  On its side is a 
+knob, which can be easily turned.  The knob seems to control the fluid level 
+in the syringe.
+STOP
+
+syringe blue
+Start
+The syringe is filled with a blue fluid.  On its side is a 
+knob, which can be easily turned.  The knob seems to control the fluid level 
+in the syringe.
+STOP
+
+syringe green
+Start
+The syringe is filled with a green fluid.  On its side is a 
+knob, which can be easily turned.  The knob seems to control the fluid level 
+in the syringe.
+STOP
+
+syringe empty
+Start
+The syringe is empty.  On its side is a knob, which can be
+easily turned.  The knob seems to control the fluid level in the syringe.
+STOP
+
+ship controls
+Start
+The ships controls look complicated.  There are four major
+buttons, though.  Those buttons are colored teal, aquamarine, puce, and plum.
+STOP
+
+IF Syringe=1 THEN Search$="syringe empty"
+IF Syringe=2 THEN Search$="syringe red"
+IF Syringe=3 THEN Search$="syringe blue"
+IF Syringe=4 THEN Search$="syringe green"

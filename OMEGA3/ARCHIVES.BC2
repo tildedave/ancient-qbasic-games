@@ -1,0 +1,176 @@
+Index
+index
+Start
+List of Patients in Colony #4:
+
+Name            Illness Code:                   Name:           Illness Code:
+
+TE1234          MD9312                          MO11325         MD1
+TE312           MD132                           SO132295        MD132
+TE1952          MD1                             SO113294        MD3
+TE2190          MD52                            SO21396         MD52
+AR1391          MD3                             PT13199         MD25
+AR592           MD25                            PT31399         MD1
+AR213           MD132                           PT11312         MD9312
+AR5129          MD52                            PT3319          MD132
+AR9217          MD3                             CL2             MD52
+AR1032          MD1                             PC4513          MD3
+TR9132          MD9312                                
+TR1311          MD52                            
+TR9931          MD1                             
+TR3542          MD3
+STOP            
+
+AR1032
+Start
+Identity Code:  AR1032
+Profession:     Artist
+Born:           64:35:45.53, Year 369, Colony #6
+Committed:      56:57:35.53, Year 400, Colony #4
+Family:         Deceased
+Diagnosed with: MD132
+Personality:    Broken mind.  Stress-Fracture.  Believed to be due to extreme
+                publicity.  Recovery looks hopeful.
+Medication:     MDM13125
+Other Notes:    Profits from work, 193415.542.34.53.  Corresponds
+                with admiring PCs and ARs through letters, sent out every
+                three cycles.  Diagnosed with CI, prime strain.
+STOP
+
+AR9217
+Start
+Identity Code:  AR9217
+Profession:     Artist
+Born:           43:35:25.35, Year 390, Colony #49
+Committed:      35:38:34.49, Year 416, Colony #4
+Family:         Deceased.
+Diagnosed with: MD3
+Personality:    Extremely Dangerous.  Believes in Complete Order.  Has killed
+                three attendants, permenently damaged RO32592MO.
+Medication:     MDM13125
+Other Notes:    Painting, 'Utopia.'  Owned by CL3, Colony #3.
+STOP
+
+AR5129
+Start
+Identity Code:  AR5129
+Profession:     Artist
+Born:           86:43:23.14, Year 392, Colony #7
+Committed:      63:25:44.32, Year 419, Colony #4
+Family:         Mother, TR543
+Diagnosed with: MD25
+Personality:    Extremely Dangerous.  Multiple Personalities.
+                Personality #1, believes is PT5129.  Sentimental.
+                Personality #2, believes is PC5129.  Harmless.
+                Personality #3, believes is SO5129.  Extremely Hostile.
+                Personality #4, believes is AR5129.  Creative.
+Medication:     MDM13125
+Other Notes:    Diagnosed with CI, prime strain.
+STOP
+
+AR213
+Start
+Identity Code:  AR213
+Profession:     Artist
+Born:           53:34:45.63, Year 389, Colony #2
+Committed:      41:64:42.84, Year 416, Colony #4
+Family:         Deceased.
+Diagnosed with: MD132
+Personality:    Believes to be controlled by a God.  Holds worships every
+                cycle in the RecCenter.
+Medication:     MDM13125
+Other Notes:    Statue, 'Enri,' sold for 4523.32.3.43 at 43:13:43.41 on
+                Colony #6.  Profits taken for Research on Colony #4.
+STOP
+
+AR592
+Start
+Identity Code:  AR592
+Profession:     Artist
+Born:           32:98:13.53, Year 386, Colony #14
+Committed:      24:41:65.97, Year 415, Colony #4
+Family:         MotherSisterDaughter, TE32, Colony #4
+Diagnosed with: MD25
+Personality:    Extremely Dangerous.  Multiple Personalities.  
+                Personality #1, believes is TR592 - Philosophist
+                Personality #2, believes is MO592 - Compulsive
+                Personality #3, believes is AR592 - Paranoid
+                Personality #4, believes is CH592 - Child Prodigy
+                Switches between personalities every 4:53:23.23.
+Medication:     MDM13125
+Other Notes:    AR592 Work, 'CXaOs,' sold for 9324.43.2.41 at 33:12:43.41 on
+                Colony #5.  Profits taken for Research at Colony #3.  CH592
+                has been working on a cure for CI, strain 453.  TR592 holds
+                seminars on philosophy every cycle.
+STOP
+
+AR1391
+Start
+Identity Code:  AR1391
+Profession:     Artist
+Born:           3:45:25.43, Year 354, Colony #6
+Committed:      24:41:65.97, Year 416, Colony #4
+Family:         Deceased
+Diagnosed with: MD3
+Personality:    Extremely Dangerous.  Obsessive-Compulsive.
+Medication:     MDM13125
+Other Notes:    Work, 'Symbiosis,' sold for 4324.54.3.21 at 43:13:43.41 on
+                Colony #6.  Profits taken for Research on Colony #4.  
+                Diagnosed with CI, strain 453.
+STOP
+
+TE2190
+Start
+Identity Code:  TE2190
+Profession:     Technical Engineer
+Born:           8:34:35.35, Year 370, Colony #23
+Committed:      24:41:65.97, Year 396, Colony #4
+Family:         Brother, AR343, BrotherSpouse, PT3234, BrotherSon, CH34
+Diagnosed with: MD52
+Personality:    Extremely dangerous.  Afraid.  Feels 'watched.'
+Medication:     MDM531
+Other Notes:    Diagnosed with CI, strain 453.
+STOP
+
+TE1952
+Start
+Identity Code:  TE1952
+Profession:     Technical Engineer
+Born:           3:35:31:34, Year 359, Colony #3
+Committed:      34:43:35.52, Year 409, Colony #4
+Family:         Deceased in Colony #3 purge
+Diagnosed with: MD1
+Personality:    Broken.  Stress Fracture.  To be held for 5000 cycles or until
+                condition improves.
+Medication:     MDM531
+Other Notes:    Carrier of CI, strain 452.  Seemingly immune.
+STOP
+
+TE312
+Start
+Identity Code:  TE312
+Profession:     Technical Engineer
+Born:           7:54:23.56, Year 334, Colony #2
+Committed:      10:08:34.47, Year 406, Colony #4
+Family:         Brother, SO43412, Colony #2
+Diagnosed with: MD132
+Personality:    Extremely dangerous.  Believes 'spirits' to be with him.
+                Has killed five othe Technical Engineers, believing him to
+                be spurned on by these spirits.
+Medication:     MDM13125
+Other Notes:    Diagnosed with Ci, strain 453.
+STOP
+
+TE1234
+Start
+Identity Code:  TE1234
+Profession:     Technical Engineer
+Born:           3:45:25.43, Year 354, Colony #6
+Committed:      24:41:65.97, Year 416, Colony #4
+Family:         MotherSisterSon, PC45, Colony #3
+Diagnosed with: MD9312
+Personality:    Extremely dangerous.  Mute.  Massicist.  Held for own good.
+Medication:     MDM531
+Other Notes:    Diagnosed with CI, strain 2.
+STOP
+
