@@ -169,8 +169,6 @@ IF A$ = "credits" THEN
 PRINT "Baator:  You bet your life": PRINT
 PRINT "     Programmer:  Dave King"
 PRINT "     Designer:  Dave King"
-PRINT "     Dedicated to:  Chuck Kappenman, upon which the basic premise of this game"
-PRINT "      is based.  Chuck - make it through this game without drawing a weapon.": PRINT
 PRINT "     Note:  Most places, characters, and monsters contained in this game are"
 PRINT "      registered trademarks of TSR, inc and are derived from the adventure,"
 PRINT "      'Fires of Dis.'": PRINT
@@ -914,7 +912,7 @@ IF N$ = "fight" THEN GOTO NoWay2
 IF N$ = "" THEN N$ = "bean"
 SAV$ = N$ + ".baa"
 OPEN SAV$ FOR OUTPUT AS #1
-IF Killer = -1 THEN Killer1$ = "the will of Hereg–l"
+IF Killer = -1 THEN Killer1$ = "the will of Heregï¿½l"
 IF Killer = 1 THEN Killer1$ = "a cornugon"
 IF Killer = 2 THEN Killer1$ = "an abishai"
 IF Killer = 3 THEN Killer1$ = "an osyluth"
@@ -1604,7 +1602,7 @@ IF Page = 1 THEN
 PRINT "                        ON THE BAATEZU": PRINT
 PRINT "   Excerpts from the Planescape Monstrous Compendium, Volume I": PRINT
 PRINT "          Copyright 1994 TSR, Inc.  All Rights Reserved.": PRINT
-PRINT "     Additional Penmanship by Dking, Mage of the God Hereg–l"
+PRINT "     Additional Penmanship by Dking, Mage of the God Heregï¿½l"
 END IF
 IF Page = 2 THEN
 PRINT "Lesser Baatezu - Abishai": PRINT
